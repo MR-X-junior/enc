@@ -4,6 +4,7 @@
 
 - Cara Install
  - pkg install python -y
+ - pip3 install cython
  - pkg install git -y
  - git clone https://github.com/MR-X-Junior/enc
  - cd enc
